@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rsquare-423506",
+  "private_key_id": "0f2ed6d01e2b4a22051ed0c9c36475adaddf72d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDufaUt6MRqkYtN\n9zGkSesI0RXSkMOmru9TreRCRlx5oSbMtbQ0QbjL14TLB0atLizlizoA3oBPsObd\no5mZWRT5SeYKGO7Eoq0SiF54/RftzUlWlOxVDDquWzQqzpf07s8iilcpcXghgfC7\niJY6bJQSlQpdQ9SHp0Pjpq06AKaCgcrgz6A/O7pPN66o32Dw/tffQTdbjJUBmUi4\nobGyS/Oui5+cwH6l4jHU+/KfWSs3TCDlENDN99OcJDTxxTP7eWz8D+K27IfQuqWO\nRWeBd2/eEoPKkVNfkgEDsJvRfoCTmgLMW8DsZs5TZ5UmGlun7PL3yn+EgPeFcUSL\nBgwxs9eTAgMBAAECggEAI9P5XCfDVjUuRdS0fvdh2U275wm7cs+GAb62c2RpoRYe\nI5PKki0ra2ghuXSK4Bp3QTbEzHugsBgl3rckrJ5u4bKB3hN3z0+XC5k0BB4VmbKE\n6X5u8KnpKOdns2Sc/H1h3dEFniK/Rt1kAnBXDUjhh9cfGvrFM2nj74/LJ1MQsLsv\nsjgajzB9X5PJqBVmDC3KbIPyInwlP6gra/iyJoEhvkK1AJjx6bKn4zuvo4IQtTDU\ngYMMdDhpzpWDmo5H24PLkVKXIw6q1qbzvS41Bewy0u40GdHr2hqx1X1te4rB8THg\neARJZSeLT7EC/pc6MtG1Rz933qllg4sdj4N0xQXU4QKBgQD8ww8kjzSwzeg8Dly5\nS87RE8Dbs1GgfjbTjeMu1rMWRSySvyJn0/A3ni6feujarpenwr04mH7om1P9DWY3\nIWfKMtqhStET+K/NwOOVXO6bFFeSvQfsiPQieOeZQu57CvKScnLp8ewNFbzZlgIb\newhhGNUJW3rCBrnagXUr53rCswKBgQDxi8iMqLuUF7M8eKeZk4lg+VU0StZ6d1xl\nsTjYmzWix8+UMl8c2Un3C3SLkvQp6i84409YG41UINN9WpdFTEcKkZy7AKWuLvi4\n/J2bRpP3bpSZ66SVAPWTId/abIvL95uujNPH2NJlAbLTzouMPgEhUteVH/tSmwDD\nKv2e+WGHoQKBgBYGrXgjHpVVrConmj7vcztW/FRo4PEabo6q66Q2Q27qYkL7cvUX\nS/SczTVKkaYU1tRgrPqUl2KPvpbrpv+g4pmFKvYpPeT+o9tLNsnaSlSrRiJcZKdh\nG90xKgV6BqwkPRUz8f2e/lH5lfZkExTv+L/1WQMyvJTR3zpCU8KarmDvAoGAHlcY\nkdJ//VIcyXO+WaQWlX+8HB1qY2eqy3s/ULXuPswqXssU92Kzz7w4n2+OC9XGqLak\nuMR9NBwLdKt0ZNf39HPl4/do2EA+Lb5NbbunymSxdcQLoEvGjPysSZto0+3+OCao\nU2oAw387Hy/Kh4siSTVGrwydXPrrVZiI0vcwMQECgYBiBm4qA/hkxWq44m2WgGu/\nfjCimdcu73+wKOIQUilLbuoDuYBn8Mqp9UwjqNdjEQVpseP6UMVRoOPJoy1qSYG7\nDpjFKlvyEqf3J7kgHLPaaPu03U/aqmLwvemTKV8iaM2cfdB0exiF9FK477Kqc8ZF\nfI0bw7/T/Noux01Lmf+4lg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rsquaretesting@rsquare-423506.iam.gserviceaccount.com",
+  "client_id": "104328839408971304070",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rsquaretesting%40rsquare-423506.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
